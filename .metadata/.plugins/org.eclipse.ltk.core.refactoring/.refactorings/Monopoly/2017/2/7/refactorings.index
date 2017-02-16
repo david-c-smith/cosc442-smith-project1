@@ -1,3 +1,4 @@
 1487213259341	Rename field 'owner'
 1487213846652	Extract interface 'IOwnable'
 1487214179734	Extract method 'calculateMonopoliesRent'
+1487214331012	Extract local variable 'colorGroup'
