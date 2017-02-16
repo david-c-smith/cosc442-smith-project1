@@ -17,14 +17,12 @@ public abstract class Cell {
 		return 0;
 	}
 
-	//Contains available
 	public boolean isAvailable() {
 		return available;
 	}
 	
 	public abstract void playAction();
 
-	//Contains available
 	public void setAvailable(boolean available) {
 		this.available = available;
 	}
