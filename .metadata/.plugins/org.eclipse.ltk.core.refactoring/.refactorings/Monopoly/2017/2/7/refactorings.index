@@ -3,3 +3,4 @@
 1487214179734	Extract method 'calculateMonopoliesRent'
 1487214331012	Extract local variable 'colorGroup'
 1487214750239	Change method 'playAction'
+1487216029674	Extracting class from 'GameBoard'
