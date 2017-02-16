@@ -11,7 +11,7 @@ public interface IOwnable {
 	//Contains available
 	boolean isAvailable();
 
-	void playAction();
+	boolean playAction(String msg);
 
 	//Contains available
 	void setAvailable(boolean available);
